@@ -1,5 +1,3 @@
-# csv-analysis
-
 # Ayar Labs Unified Search Platform
 
 ## Architecture Overview
